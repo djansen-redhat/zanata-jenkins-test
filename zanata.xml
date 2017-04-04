@@ -3,6 +3,6 @@
   <url>http://localhost:8180/</url>
   <project>zanata-jenkins</project>
   <project-version>master</project-version>
-  <project-type>file</project-type>
+  <project-type>gettext</project-type>
 
 </config>
